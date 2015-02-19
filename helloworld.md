@@ -1,3 +1,3 @@
 ## This is a markdown file
 
-created in Notepad, oushed to GitHub
+created in Notepad, pushed to GitHub
